@@ -1,0 +1,15 @@
+# GROMACS outputs and backups
+runs/
+analysis/
+logs/
+_build_tmp/
+00_master_inputs/
+*.xtc
+*.trr
+*.edr
+*.tpr
+*.cpt
+*.log
+*.tar.gz
+#*#
+__pycache__/
